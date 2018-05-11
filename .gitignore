@@ -4,6 +4,9 @@
 *.o
 *.obj
 
+# Compiled Static libraries
+*.log
+
 #Executables
 *.exe
 *.out
