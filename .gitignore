@@ -6,6 +6,7 @@
 
 # Compiled Static libraries
 *.log
+*.so
 
 #Executables
 *.exe
